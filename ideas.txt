@@ -1,0 +1,5 @@
+1. restart button
+2. scoreboard recent || highscore <-- fade
+3. Piece probabillity manipulator
+4. ghost pice 
+5. ~¤TETRIS!¤~ announcement
